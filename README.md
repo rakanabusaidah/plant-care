@@ -18,6 +18,3 @@ tasks and reminding them when it is time to perform a certain plant procedure.
 <img src="https://github.com/rakanabusaidah/plant-care/blob/main/screenshots/screenshot4.png" width="300" />  <img src="https://github.com/rakanabusaidah/plant-care/blob/main/screenshots/screenshot5.png" width="300" />  <img src="https://github.com/rakanabusaidah/plant-care/blob/main/screenshots/screenshot6.png" width="300" />
 
 
-## 🔗 Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/rakanabusaidah)
